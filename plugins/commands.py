@@ -64,7 +64,7 @@ async def start(client, message):
             gtxt = "ɢᴏᴏᴅ ᴇᴠᴇɴɪɴɢ 👋"
         else:
             gtxt = "ɢᴏᴏᴅ ɴɪɢʜᴛ 👋"
-        m=await message.reply_text("<i>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <b>ᴛʜᴇ ᴋʀɪsᴛᴇᴇɴ</b>.\nʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ᴅᴏɪɴɢ ᴡᴇʟʟ...</i>")
+        m=await message.reply_text("<i>ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ <b>ᴛʜᴇ ᴋʀɪsᴛᴇᴇɴ ʙᴏᴛ</b>.\nʜᴏᴘᴇ ʏᴏᴜ'ʀᴇ ᴅᴏɪɴɢ ᴡᴇʟʟ...</i>")
         await asyncio.sleep(0.4)
         await m.edit_text("👀")
         await asyncio.sleep(0.5)
@@ -214,7 +214,7 @@ async def start(client, message):
                                 InlineKeyboardButton('🎥 ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ⭐', callback_data=f'generate_stream_link:{file_id}'),
                             ],
                             [
-                                InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Mahi_Movies') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Radhe_Krishn_Movies') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -234,7 +234,7 @@ async def start(client, message):
                                 InlineKeyboardButton('🎥 ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ⭐', callback_data=f'generate_stream_link:{file_id}'),
                             ],
                             [
-                                InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Mahi_Movies') #Don't change anything without contacting me @LazyDeveloperr
+                                InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Radhe_Krishn_Movies') #Don't change anything without contacting me @LazyDeveloperr
                             ]
                         ]
                     )
@@ -423,7 +423,7 @@ async def start(client, message):
               InlineKeyboardButton('🎥 ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ⭐', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Mahi_Movies') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Radhe_Krishn_Movies') #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
@@ -509,7 +509,7 @@ async def start(client, message):
               InlineKeyboardButton('🎥 ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ⭐', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Mahi_Movies') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Radhe_Krishn_Movies') #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
@@ -578,7 +578,7 @@ async def start(client, message):
               InlineKeyboardButton('🎥 ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ⭐', callback_data=f'generate_stream_link:{file_id}'),
              ],
              [
-              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Mahi_Movies') #Don't change anything without contacting me @LazyDeveloperr
+              InlineKeyboardButton('🍿 ᴜᴘᴅᴀᴛᴇs 🎥', url=f'https://t.me/Radhe_Krishn_Movies') #Don't change anything without contacting me @LazyDeveloperr
              ]
             ]
         )
